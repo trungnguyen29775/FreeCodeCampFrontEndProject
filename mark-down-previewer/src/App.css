@@ -1,7 +1,12 @@
 .App {
   text-align: center;
 }
-
+#editor
+{
+  height: 300px;
+  width: 500px;
+  margin-top: 20px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
