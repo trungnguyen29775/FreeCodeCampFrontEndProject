@@ -8,6 +8,7 @@ class App extends React.Component {
       expression:"0"
     }
     this.handleClick = this.handleClick.bind(this)
+    
   }
   handleClick(event)
   {
